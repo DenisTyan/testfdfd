@@ -49,7 +49,7 @@ var OOAdventAnnounce = exports.OOAdventAnnounce = function OOAdventAnnounce(_ref
     href: translation("AdventAnnounceLink")
   }, /*#__PURE__*/_react["default"].createElement("div", {
     className: "oo-advent-announce-text"
-  }, /*#__PURE__*/_react["default"].createElement("div", null, "test"), /*#__PURE__*/_react["default"].createElement("div", {
+  }, /*#__PURE__*/_react["default"].createElement("div", null, "test2 2 2"), /*#__PURE__*/_react["default"].createElement("div", {
     className: "oo-advent-announce-text-desktop",
     dangerouslySetInnerHTML: {
       __html: translation("AdventAnnounceDesktop")
