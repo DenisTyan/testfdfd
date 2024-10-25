@@ -23,6 +23,7 @@ const OOAdventAnnounce = ({ locale }) => {
   return (
     <a className={`oo-advent-announce ${currentLocale}`} href={translation("AdventAnnounceLink")}>
       <div className="oo-advent-announce-text">
+        <div>test</div>
         <div className="oo-advent-announce-text-desktop" dangerouslySetInnerHTML={{ __html: translation("AdventAnnounceDesktop") }} />
         <div className="oo-advent-announce-text-mobile" dangerouslySetInnerHTML={{ __html: translation("AdventAnnounceMobile") }} />
       </div>
